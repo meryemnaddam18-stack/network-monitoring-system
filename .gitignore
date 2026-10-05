@@ -1,0 +1,21 @@
+# Build output
+target/
+
+# IDE files
+nbproject/
+nbactions.xml
+nb-configuration.xml
+.idea/
+*.iml
+.vscode/
+
+# Local secrets / config
+.env
+*.env
+
+# Generated reports
+device_status.txt
+
+# OS files
+.DS_Store
+Thumbs.db
